@@ -2,9 +2,11 @@
 
 **Repository Role:** Official Permanent Archive for Class 02 Superseded Curricula (2018–2022 Academic Editions)  
 **Target Repository:** `Eaglesiva/tn-class-02-archive`  
-**Migration Branch:** `migration/class-02-legacy-import`  
-**Status:** **LEGACY INGESTION COMPLETED & 100% VERIFIED** (Pending Step 8 Main Merge)  
-**Total Archived Content Files:** **1,176 Files** (100% Git Blob SHA match with pre-migration source tree)  
+**Default Branch:** `main` (Merged & Locked)  
+**Main Merge Commit:** [`8c0f7397f6d6e8033d399ed88cb49fa725083401`](https://github.com/Eaglesiva/tn-class-02-archive/commit/8c0f7397f6d6e8033d399ed88cb49fa725083401)  
+**Status:** **PRODUCTION ARCHIVE 100% COMPLETE & MERGED TO MAIN**  
+**Total Archived Content Files:** **1,176 Files** (1,044 single-page PDFs + 114 questions.md + 18 pages.json)  
+**Integrity Guarantee:** **100% Git Blob SHA equality across all 1,176 files (0 Mismatches, 0 Missing).**  
 
 ---
 
