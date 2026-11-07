@@ -32,7 +32,7 @@ All legacy syllabus materials have been ingested and isolated under `legacy-2018
 
 - **Ingestion Base Commit:** `574fd1a3a94fd3c0e1580b4f8b1c3a16acebdaaf`
 - **Audit Verification Report:** [CLASS_02_FINAL_MIGRATION_AUDIT_REPORT.md](CLASS_02_FINAL_MIGRATION_AUDIT_REPORT.md)
-- **Central Register:** [Class 02 Master Register](https://github.com/Eaglesiva/tn-schools-project/blob/main/docs/03-edition-register/class-02/edition-verification-register-draft.md)
+- **Central Register:** [Class 02 Master Register](https://github.com/Eaglesiva/tn-schools-project/blob/main/docs/03-edition-register/class-02/edition-verification-register.md)
 - **Active 2026 Production Repo:** [tn-class-02](https://github.com/Eaglesiva/tn-class-02)
 
 > [!NOTE]
